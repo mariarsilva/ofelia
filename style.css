@@ -1,0 +1,31 @@
+body{
+	font-family: Helvetica, Verdana, sans serif;
+	background-color: #FFAC1E;
+}
+
+.logo{
+	background-color: #FFAC1E;
+	float: right;
+}
+.menu{
+	background-color: #FFFFFF;
+	text-align: right;
+	max-width: 1000px;
+	margin-left: 500px;
+}
+.fontMenu{
+	color: #FFAC1E;
+}
+
+/*
+==============FONTES==================
+*/
+
+h1{
+	color: #FFFFFF;
+}
+
+p{
+	font-family: Helvetica;
+	color: #FFFFFF;
+}
